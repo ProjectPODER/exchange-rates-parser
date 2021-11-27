@@ -1,0 +1,16 @@
+{
+  "name": "exchange-rates-parser",
+  "version": "1.0.0",
+  "description": "Fetch and parse daily exchange rates between two currencies for a specific time period.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Matzdorf",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.2.0",
+    "csv-string": "^4.0.1",
+    "puppeteer": "^12.0.0"
+  }
+}
