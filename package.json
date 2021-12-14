@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Fernando Matzdorf",
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "dependencies": {
     "command-line-args": "^5.2.0",
     "csv-string": "^4.0.1",
